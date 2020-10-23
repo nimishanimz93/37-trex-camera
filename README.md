@@ -1,1 +1,2 @@
-# 37-trex-camera
+# trex_camera
+modified trex code with camera position
